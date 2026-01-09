@@ -48,7 +48,7 @@ O sistema foi projetado para ser **escalável**, com controle de estado e possib
 
 ## Demonstração
 
-![Fluxo geral do atendimento](Omages/n8nworkflow.png)
+![Fluxo geral do atendimento](Omages/workflown8n.png)
 
 ![Integração com WhatsApp](Images/evolutionapi.png)
 
