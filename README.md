@@ -97,9 +97,9 @@ Imagens do fluxo e do painel de integração:
 - Integração ativa com Evolution API  
 - Processamento e resposta automática ao cliente  
 
-![Fluxo geral do atendimento](images/workflown8n.png)
+![Fluxo geral do atendimento](images/n8nworkflow.png)
 
-![Integração WhatsApp](images/whatsapp.png)
+![Integração WhatsApp](images/evolutionapi.png)
 
 ---
 
