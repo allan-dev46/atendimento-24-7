@@ -97,8 +97,9 @@ Imagens do fluxo e do painel de integração:
 - Integração ativa com Evolution API  
 - Processamento e resposta automática ao cliente  
 
-https://github.com/allan-dev46/atendimento-24-7/blob/main/Images/evolutionapi.png?raw=true
-*(ver pasta `/images`)*
+![Fluxo geral do atendimento](images/workflown8n.png)
+
+![Integração WhatsApp](images/whatsapp.png)
 
 ---
 
